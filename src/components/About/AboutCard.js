@@ -10,11 +10,11 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Mahmoud DKHISSI </span>
             <br />
-            I am a last year computer science engineering student at INP-ENSEEIHT specialized in Big Data.
+            I am a Software Engineer specialized in Java, with experience in building robust and scalable applications.
             <br />
-            I have a keen interest in Artificial Intelligence and data science, driven by the fascinating blend of applied mathematics, modeling, data analysis, and software engineering. My curiosity about science and new technologies continues to grow, fueling my dedication to expanding my knowledge and honing my skills.
-
+            I also have a solid understanding of DevOps practices, including automation, CI/CD, and deployment processes, allowing me to bridge the gap between development and operations.
             <br />
+            I enjoy solving challenging problems, continuously improving my skills, and delivering high-quality software solutions.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -23,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Playing Football
             </li>
             <li className="about-activity">
-              <ImPointRight /> Listening Music
+              <ImPointRight /> Listening to Music
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
@@ -31,7 +31,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Code with purpose, deploy with care !"{" "}
           </p>
           <footer className="blockquote-footer">Mahmoud</footer>
         </blockquote>

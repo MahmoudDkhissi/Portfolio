@@ -4,8 +4,6 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -19,31 +17,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming and I’ve learned a lot along the way 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Python, Javascript, C and Java. </b>
+                <b className="purple"> Java, Javascript, and Python  </b> and I enjoy building <b className="purple"> robust and innovative web applications </b>.
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              While my focus is primarily on development, I also handle the &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b>
-                especially in areas related to{" "}
+                <b className="purple">deployment and operations </b>
+                of the applications I build applying {" "}
                 <b className="purple">
-                  Data Science and AI.
-                </b>
+                  Devops Practices.
+                </b> such as automation and <b className="purple">CI/CD</b> to ensure they are <b className="purple">scalable, reliable and easy to maintain.</b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for trying to learn
-              new developing products like
-              &nbsp; 
-              <i>
-                <b className="purple"> Cloud technologies.</b>
-              </i>
+              In my free time, I surf <b className="purple">LeetCode</b> to sharpen my problem-solving skills and explore new algorithms.
+              &nbsp;
             </p>
           </Col>
           <Col md={4} className="myAvtar">
