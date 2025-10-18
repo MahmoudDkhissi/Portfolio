@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website<br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
@@ -10,37 +10,23 @@
 
 <center>
 
+[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzYuODI1MDAwNzYyOTM5NDUiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNzYuODI1MDAwNzYyOTM5NDUgMzUiPjxyZWN0IHdpZHRoPSIxMDMuNTM3NDk4NDc0MTIxMSIgaGVpZ2h0PSIzNSIgZmlsbD0iIzMxQzRGMyIvPjxyZWN0IHg9IjEwMy41Mzc0OTg0NzQxMjExIiB3aWR0aD0iNzMuMjg3NTAyMjg4ODE4MzYiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48dGV4dCB4PSI1MS43Njg3NDkyMzcwNjA1NSIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+TUFERSBXSVRIPC90ZXh0Pjx0ZXh0IHg9IjE0MC4xODEyNDk2MTg1MzAyNyIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiPlJFQUNUPC90ZXh0Pjwvc3ZnPg==)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
-
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="" target="_blank">mdkhissi.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
 - React.js
 - Node.js
-- Express.js
+- Html
 - CSS3
-- VsCode
-- Vercel
+- Intellij
 
 ## Features
 
@@ -69,8 +55,12 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
-### Show your support
+### Contact Me
 
-Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
+
+<p>
+  <a href="https://www.facebook.com/mahmoud.dk.568" target="_blank">Facebook</a> |
+  <a href="https://x.com/MDK_Dono?t=dFrEaVRIFQ0Ipt2uw4Ge8A&s=08" target="_blank">Twitter</a>
+</p>
