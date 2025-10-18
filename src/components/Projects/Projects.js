@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import alten_logo from "../../Assets/Projects/alten_logo.png";
+import ci_cd_logo from "../../Assets/Projects/ci_cd_logo.png";
+import ats_logo from "../../Assets/Projects/ats_logo.png";
+import cgi_logo from "../../Assets/Projects/cgi_logo.png";
+import web_service_logo from "../../Assets/Projects/web_service_logo.png";
+import sbs_logo from "../../Assets/Projects/sbs_logo.png";
 
 function Projects() {
   return (
@@ -23,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={cgi_logo}
               isBlog={false}
               title="CGI Intern"
               isConfidentiel={true}
@@ -33,7 +33,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={sbs_logo}
               isBlog={false}
               isConfidentiel={true}
               title="SBS Intern"
@@ -43,7 +43,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={alten_logo}
               isBlog={false}
               title="GAN Configurator (with ALTEN)"
               ghLink="https://github.com/MahmoudDkhissi/projet-long-alten"
@@ -53,7 +53,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={ats_logo}
               isBlog={false}
               title="ATS – Applicant Tracking System"
               description="Full-stack recruitment app with Spring Boot, React, and Redux, featuring authentication and role management via Spring Security.
@@ -63,7 +63,7 @@ Containerized with Docker and automated deployment via GitHub Actions CI/CD."
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={ci_cd_logo}
               isBlog={false}
               title="CI/CD Automation Pipeline"
               description="End-to-end CI/CD pipeline designed to automate the build, test, and deployment process of a sample Java/React application. Built using Jenkins, Docker, and GitHub Actions, it automates container builds, runs unit tests, and deploys to a Kubernetes (Minikube) cluster."
@@ -72,7 +72,7 @@ Containerized with Docker and automated deployment via GitHub Actions CI/CD."
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={web_service_logo}
               isBlog={false}
               title="Banking Service – Web Services Comparison"
               description="Developed a Java-based banking service comparing REST (JAX-RS, Spring REST, Spring Data REST) and SOAP (JAX-WS) architectures for account management."
