@@ -25,10 +25,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="CGI Intern"
+              isConfidentiel={true}
+              description="Designed, developed, and deployed the OBP application for Société Générale, using Spring Boot (REST APIs, Spring Data, Spring Batch) for the backend and React + Redux for the frontend with SgSignIn authentication. Managed CI/CD and deployments via DevOps Manager and JFrog across multiple environments, following Agile methodology with regular demos and GitHub-based collaboration."
             />
           </Col>
 
@@ -36,10 +35,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              isConfidentiel={true}
+              title="SBS Intern"
+              description="Developed a commercial proactivity dashboard for bank branch managers using a Spring Boot microservices architecture, Angular frontend, and MongoDB database. Contributed to backend API design, frontend integration, and performance optimization while working in an Agile environment with code versioning and testing through Maven and Postman."
             />
           </Col>
 
@@ -47,10 +45,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="GAN Configurator (with ALTEN)"
+              ghLink="https://github.com/MahmoudDkhissi/projet-long-alten"
+              description="Desktop application built with Python (Tkinter) that allows users to design, configure, and train Generative Adversarial Networks (GANs) without coding. Provides a graphical interface to customize generator/discriminator architectures, tune hyperparameters, and launch training sessions"
             />
           </Col>
 
@@ -58,10 +55,9 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="ATS – Applicant Tracking System"
+              description="Full-stack recruitment app with Spring Boot, React, and Redux, featuring authentication and role management via Spring Security.
+Containerized with Docker and automated deployment via GitHub Actions CI/CD."
             />
           </Col>
 
@@ -69,10 +65,8 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="CI/CD Automation Pipeline"
+              description="End-to-end CI/CD pipeline designed to automate the build, test, and deployment process of a sample Java/React application. Built using Jenkins, Docker, and GitHub Actions, it automates container builds, runs unit tests, and deploys to a Kubernetes (Minikube) cluster."
             />
           </Col>
 
@@ -80,11 +74,9 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Banking Service – Web Services Comparison"
+              description="Developed a Java-based banking service comparing REST (JAX-RS, Spring REST, Spring Data REST) and SOAP (JAX-WS) architectures for account management."
+              ghLink="https://github.com/MahmoudDkhissi/SOAP-REST-SpringBoot"
             />
           </Col>
         </Row>
