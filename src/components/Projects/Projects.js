@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="CGI Intern"
               isConfidentiel={true}
-              description="Designed, developed, and deployed the OBP application for Société Générale, using Spring Boot (REST APIs, Spring Data, Spring Batch) for the backend and React + Redux for the frontend with SgSignIn authentication. Managed CI/CD and deployments via DevOps Manager and JFrog across multiple environments, following Agile methodology with regular demos and GitHub-based collaboration."
+              description="Designed, developed, and deployed the OBP application for a specific client, using Spring Boot (REST APIs, Spring Data, Spring Batch) for the backend and React + Redux for the frontend with SgSignIn authentication. Managed CI/CD and deployments via DevOps Manager and JFrog across multiple environments, following Agile methodology with regular demos and GitHub-based collaboration."
             />
           </Col>
 

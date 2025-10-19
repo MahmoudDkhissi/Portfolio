@@ -4,7 +4,7 @@ import {
     SiVisualstudiocode,
     SiLinux, SiIntellijidea, SiJira,
 } from "react-icons/si";
-import {DiGithub} from "react-icons/all";
+import {DiGithub} from "react-icons/di";
 
 function Toolstack() {
   return (
