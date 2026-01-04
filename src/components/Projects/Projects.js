@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import alten_logo from "../../Assets/Projects/alten_logo.png";
 import ci_cd_logo from "../../Assets/Projects/ci_cd_logo.png";
-import ats_logo from "../../Assets/Projects/ats_logo.png";
+import ms_logo from "../../Assets/Projects/ms_logo.png";
 import cgi_logo from "../../Assets/Projects/cgi_logo.png";
 import web_service_logo from "../../Assets/Projects/web_service_logo.png";
 import sbs_logo from "../../Assets/Projects/sbs_logo.png";
@@ -53,13 +53,15 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ats_logo}
-              isBlog={false}
-              title="ATS – Applicant Tracking System"
-              description="Full-stack recruitment app with Spring Boot, React, and Redux, featuring authentication and role management via Spring Security.
-Containerized with Docker and automated deployment via GitHub Actions CI/CD."
+                imgPath={ms_logo}
+                isBlog={false}
+                title="E-commerce Microservices System"
+                description="Microservices-based e-commerce system built with Spring Boot and Spring Cloud, including API Gateway, Eureka Discovery, and centralized configuration.
+Inter-service communication via OpenFeign with fault tolerance using Resilience4j, and asynchronous configuration refresh using Spring Cloud Bus and RabbitMQ."
+                ghLink="https://github.com/MahmoudDkhissi/ecom-ms-app"
             />
           </Col>
+
 
           <Col md={4} className="project-card">
             <ProjectCard
