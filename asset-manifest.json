@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d1740d11.css",
-    "main.js": "/Portfolio/static/js/main.7e8e7dc1.js",
+    "main.js": "/Portfolio/static/js/main.0130e1c7.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/CV_DKHISSI_ENG.pdf": "/Portfolio/static/media/CV_DKHISSI_ENG.8360ef938cda86ab429f.pdf",
+    "static/media/CV_DKHISSI_ENG.pdf": "/Portfolio/static/media/CV_DKHISSI_ENG.59c4608fc64765703f28.pdf",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/ats_logo.png": "/Portfolio/static/media/ats_logo.b4395b785f39567dcb70.png",
+    "static/media/ms_logo.png": "/Portfolio/static/media/ms_logo.ecc6bcfa8951b65c11bb.png",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/cgi_logo.png": "/Portfolio/static/media/cgi_logo.f3e1d29bdeb7ac1f8d8c.png",
     "static/media/alten_logo.png": "/Portfolio/static/media/alten_logo.a26cd9567c5eac6e92db.png",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.d1740d11.css.map": "/Portfolio/static/css/main.d1740d11.css.map",
-    "main.7e8e7dc1.js.map": "/Portfolio/static/js/main.7e8e7dc1.js.map",
+    "main.0130e1c7.js.map": "/Portfolio/static/js/main.0130e1c7.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1740d11.css",
-    "static/js/main.7e8e7dc1.js"
+    "static/js/main.0130e1c7.js"
   ]
 }
